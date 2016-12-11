@@ -1,0 +1,16 @@
+{
+    "name": "christopherson/app-2",
+    "type": "library",
+    "authors": [
+        {
+            "name": "crwgregory",
+            "email": "crwgregory@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app2\\": "src/"
+        }
+    },
+    "require": {}
+}
